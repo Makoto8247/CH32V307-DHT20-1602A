@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//Core/core_riscv.h=GBK
+encoding//Debug/debug.c=GBK
+encoding//FreeRTOS/include/task.h=GBK
+encoding//FreeRTOS/list.c=GBK
+encoding//FreeRTOS/portable/GCC/RISC-V/port.c=GBK
+encoding//FreeRTOS/portable/GCC/RISC-V/portmacro.h=GBK
+encoding//FreeRTOS/tasks.c=GBK
+encoding//Peripheral/inc/ch32v30x_i2c.h=GBK
+encoding//Peripheral/src/ch32v30x_dbgmcu.c=GBK
+encoding//Peripheral/src/ch32v30x_gpio.c=GBK
+encoding//Peripheral/src/ch32v30x_i2c.c=GBK
+encoding//Startup/startup_ch32v30x_D8C.S=GBK
+encoding//User/FreeRTOSConfig.h=GBK
+encoding//User/main.c=GBK
+encoding//User/system_ch32v30x.c=GBK
