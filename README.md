@@ -4,8 +4,15 @@ ch32v307vct8を使用し、温湿度計を作成しました。
 OSはFreeRTOSを使用しています。  
 
 ## フォルダ構成
-projects
++ projects
 > MounRiverで使用するプロジェクトフォルダです
+
++ img
+> 画像類です。回路図も入れてます。
+
++ ch32v307DHT20
+> KiCadプロジェクトフォルダです。
+
 ## 主なパーツ
 + CH32V307VCT8
 + DHT20
